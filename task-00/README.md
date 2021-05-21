@@ -1,0 +1,1 @@
+In the first task,I've downloaded the ubuntu virtual box.It was pretty easy and I did'nt experience any errors or difficulties in the process.Though it helped improve my knowledge and I learnt something new.
