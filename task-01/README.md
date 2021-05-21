@@ -1,0 +1,1 @@
+After following the given [instructions](https://github.com/amfoss/star-me),the task was very easy.![Task 1](https://user-images.githubusercontent.com/84556893/119086639-69685900-ba23-11eb-8e3b-580a164f2ea5.PNG)
